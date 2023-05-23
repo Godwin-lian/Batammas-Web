@@ -58,7 +58,7 @@ export default function Home() {
   <div className="page-container">
     <nav className="navigation">
       <ul>
-        <li><a href="#">HOME</a></li>
+        <li><a href="/contact">HOME</a></li>
         <li><a href="#">ABOUT</a></li>
         <li><a href="#">INVENTORY</a></li>
         <li><a href="#">AC CONTROLLER</a></li>
